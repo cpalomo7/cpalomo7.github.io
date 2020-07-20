@@ -6,10 +6,13 @@ layout: resume
 ---
 
 ## Contact Me
- *1072 Camelia Drive*
- *Livermore, CA 94550*
- *(925) 518-9657*
- *cpalomoramirez@gmail.com*
+*1072 Camelia Drive*
+
+*Livermore, CA 94550*
+
+*(925) 518-9657*
+
+*cpalomoramirez@gmail.com*
 
 ## Skills
   - C++
@@ -22,16 +25,16 @@ layout: resume
 
 ## Experience
 
-##### HPC Cluster Academy Internship - Lawrence Livermore National Lab
+- HPC Cluster Academy Internship - Lawrence Livermore National Lab
 *June 2020 - August 2020*
 
-##### Mountain Mike’s Pizza, Livermore, CA — Driver
+- Mountain Mike’s Pizza, Livermore, CA — Driver
 *June 2016 - Present*
 
-##### ProctorU, Livermore, CA — Proctor
+- ProctorU, Livermore, CA — Proctor
 *June 2016 - September 2016*
 
-##### Calvin Klein, Livermore, CA — Sales Representative
+- Calvin Klein, Livermore, CA — Sales Representative
 *October 2012 - April 2014*
 
 ## Education
