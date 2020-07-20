@@ -1,3 +1,7 @@
+---
+title: "Cristian's Resume"
+---
+
 # Cristian Palomo-Ramirez
 
 ---
