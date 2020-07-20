@@ -11,7 +11,7 @@ Livermore, CA 94550
 cpalomoramirez@gmail.com*
 ---
 ---
-### Skills
+## Skills
 ---
   - C++
   - Java
@@ -20,7 +20,7 @@ cpalomoramirez@gmail.com*
   - Git
   - HTML/CSS
   - Bilingual (Spanish)
-### Experience
+## Experience
 ---
 ##### HPC Cluster Academy Internship - Lawrence Livermore National Lab
 *June 2020 - August 2020*
@@ -34,7 +34,7 @@ cpalomoramirez@gmail.com*
 ##### Calvin Klein, Livermore, CA — Sales Representative
 *October 2012 - April 2014*
 
-### Education
+## Education
 ---
 > **CSU Monterey Bay, Seaside, CA**
 August 2018 - December 2020. B.S. Computer Science
@@ -46,7 +46,7 @@ August 2016 - May 2018
 > **Cuesta College, San Luis Obispo, CA**
 August 2014 - May 2016
 
-### Projects
+## Projects
 ---
 - Implemented GUI playing card game using Python.
 - Implemented a mock flight reservation database and website using jQuery, jNode, and Ajax.
