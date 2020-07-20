@@ -1,52 +1,49 @@
+# Cristian Palomo-Ramirez
+
 ---
-title: "C'thulhu Resume"
-layout: resume
+ *1072 Camelia Drivc
+Livermore, CA 94550
+(925) 518-9657
+cpalomoramirez@gmail.com*
 ---
+---
+### Skills
+---
+  - C++
+  - Java
+  - Javascript
+  - Python
+  - Git
+  - HTML/CSS
+  - Bilingual (Spanish)
+### Experience
+---
+##### HPC Cluster Academy Internship - Lawrence Livermore National Lab
+*June 2020 - August 2020*
 
-# C'thulhu
+##### Mountain Mike’s Pizza, Livermore, CA — Driver
+*June 2016 - Present*
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+##### ProctorU, Livermore, CA — Proctor
+*June 2016 - September 2016*
 
-## Education
+##### Calvin Klein, Livermore, CA — Sales Representative
+*October 2012 - April 2014*
 
-### **Withering Madness University** Planet Vhoorl
+### Education
+---
+> **CSU Monterey Bay, Seaside, CA**
+August 2018 - December 2020. B.S. Computer Science
+Classes: Multimedia Programming, Database systems, Software design, Computer networking, Internet programming.
 
-**Major:** Public Relations
+> **Las Positas College, Livermore, CA**
+August 2016 - May 2018
 
-**Minor:** Scale Tending
+> **Cuesta College, San Luis Obispo, CA**
+August 2014 - May 2016
 
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+### Projects
+---
+- Implemented GUI playing card game using Python.
+- Implemented a mock flight reservation database and website using jQuery, jNode, and Ajax.
+- Created a text-command based game complete with graphics, an inventory HUD, and interactive sounds.
