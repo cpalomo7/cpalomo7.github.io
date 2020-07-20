@@ -4,11 +4,10 @@ layout: resume
 ---
 # Cristian Palomo-Ramirez
 
----
- *1072 Camelia Drivc
-Livermore, CA 94550
-(925) 518-9657
-cpalomoramirez@gmail.com*
+*1072 Camelia Drive*
+*Livermore, CA 94550*
+*(925) 518-9657*
+*cpalomoramirez@gmail.com*
 ---
 ---
 ## Skills
