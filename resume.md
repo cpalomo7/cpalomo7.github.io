@@ -10,7 +10,6 @@ layout: resume
 *cpalomoramirez@gmail.com*
 
 ## Skills
-
   - C++
   - Java
   - Javascript
@@ -18,7 +17,7 @@ layout: resume
   - Git
   - HTML/CSS
   - Bilingual (Spanish)
-  
+
 ## Experience
 
 ##### HPC Cluster Academy Internship - Lawrence Livermore National Lab
@@ -35,18 +34,17 @@ layout: resume
 
 ## Education
 
-> **CSU Monterey Bay, Seaside, CA**
+**CSU Monterey Bay, Seaside, CA**
 August 2018 - December 2020. B.S. Computer Science
 Classes: Multimedia Programming, Database systems, Software design, Computer networking, Internet programming.
 
-> **Las Positas College, Livermore, CA**
+**Las Positas College, Livermore, CA**
 August 2016 - May 2018
 
-> **Cuesta College, San Luis Obispo, CA**
+**Cuesta College, San Luis Obispo, CA**
 August 2014 - May 2016
 
 ## Projects
-
 - Implemented GUI playing card game using Python.
 - Implemented a mock flight reservation database and website using jQuery, jNode, and Ajax.
 - Created a text-command based game complete with graphics, an inventory HUD, and interactive sounds.
