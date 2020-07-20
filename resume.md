@@ -3,7 +3,6 @@ title: "Cristian's Resume"
 layout: resume
 ---
 # Cristian Palomo-Ramirez
----
 
 ## Contact Me
 *1072 Camelia Drive*
