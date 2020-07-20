@@ -1,8 +1,3 @@
----
-title: "Cristian's Resume"
-layout: resume
----
-
 # Cristian Palomo-Ramirez
 
 ---
